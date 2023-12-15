@@ -1,0 +1,7 @@
+*.zip
+// ignore vault folder
+vault/*
+consule/*
+config-repo/*
+microservices-good-example/*
+frontend/*
